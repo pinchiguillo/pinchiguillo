@@ -1,5 +1,3 @@
-# 👋 Bienvenido
-
 ### 🚀 Desarrollador Full Stack | Backend | Mid-Level
 
 Soy **pinchiguillo**, estudiante de la **Universidad Alfonso X** y desarrollador independiente con experiencia en desarrollo backend. Python es mi lenguaje principal, y tengo un especial interés en **inteligencia artificial** y **web scraping**.
@@ -26,8 +24,3 @@ Soy **pinchiguillo**, estudiante de la **Universidad Alfonso X** y desarrollador
   - ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
   - ![AWS](https://img.shields.io/badge/AWS-Cloud%20Platform-yellowgreen)
   - **Web Scraping**: Experiencia con BeautifulSoup y Scrapy.
-
-
----
-
-Gracias por visitar mi perfil. Estoy abierto a colaboraciones en **inteligencia artificial** y tecnologías emergentes.
